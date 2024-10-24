@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @YUANZJU
-- 👀 I’m interested in Reading Coding and doing sth great
+- 👋 Hi, I’m @YUANZJU a student right now
+- 👀 I’m interested in Reading Coding and doing something great
 - 🌱 I’m currently learning Python and react native
 - 💞️ I’m looking to collaborate on sth interesting
 - 📫 How to reach me is a secret right now
